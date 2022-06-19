@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Molazem
 - 👀 I’m interested in App & Web developing
-- 🌱 I’m currently learning java and started in the web development
+- 🌱 I’m currently learning Andoid development by kotlin 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me by email :abdallah.molz.8525@gmail.com
 
