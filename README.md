@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Molazem
-- 👀 I’m interested in App & Web developing
-- 🌱 I’m currently learning Andoid development by kotlin 
+- 👀 I’m interested in Women and Software development 
+- 🌱 I’m currently learning Hybrid mobile App development using Flutter 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me by email :abdallah.molz.8525@gmail.com
 
