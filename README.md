@@ -1,17 +1,17 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Abdallah Molazem! 👋
 
 ### 🚀 Software Developer | Flutter & Backend Enthusiast | DevOps Explorer
 
 I'm a passionate **software developer** with expertise in **Flutter, backend development (Python, Golang), and UI/UX design**. I love building high-performance applications and mastering new technologies.
 
 ## 🔧 Tech Stack
-- **Languages:** Dart, Python, Golang, Java, JavaScript
+- **Languages:** Dart, Python, PHP, Kotlin, Java, JavaScript
 - **Mobile Development:** Flutter, Jetpack Compose (Kotlin)
-- **Backend:** FastAPI, Flask, Firebase, RESTful APIs
+- **Backend:** FastAPI, Flask, Firebase, Ktor, Spring boot (basic), RESTful APIs
 - **DevOps & Tools:** Git, GitHub, CI/CD, Docker (basic)
-- **UI/UX & Design:** Adobe XD, Figma, TailwindCSS
+- **UI/UX & Design:** Adobe XD, Figma
 - **Databases:** Firebase Firestore, PostgreSQL, MySQL
-
+<!--
 ## 📌 Featured Projects
 
 ### 📱 [Project Name 1]
@@ -25,7 +25,7 @@ I'm a passionate **software developer** with expertise in **Flutter, backend dev
 ### 🔍 [Project Name 3]
 🛠 **Tech:** Python, Flask, Machine Learning  
 🚀 [GitHub Repo](https://github.com/yourusername/project3) | 🔗 [Live Demo](https://yourapp.com)
-
+-->
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](https://yourwebsite.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourname)
